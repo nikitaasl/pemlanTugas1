@@ -10,3 +10,10 @@ Mobil m2 = new Mobil(); digunakan untuk membuat objek m2(mobil 2) dari kelas mob
 displayMessage() untuk menampilkan informasi mobil 1 dan mobil 2
 scanner.nextInt() untuk input angka integer dari user
 scanner.nextLine() untuk membaca enter
+
+![Cuplikan layar 2025-03-12 195905](https://github.com/user-attachments/assets/97703323-ccfd-4be3-981b-7bb58271b208)
+![Cuplikan layar 2025-03-12 200035](https://github.com/user-attachments/assets/59ba1490-6ab9-49c6-a447-f99ca8599699)
+![Cuplikan layar 2025-03-12 200220](https://github.com/user-attachments/assets/bbeb9465-dcb6-4799-b5cf-4212b6fe8af2)
+
+
+
